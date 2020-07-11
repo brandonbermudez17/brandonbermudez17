@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+-I'm currently learning python
+-I'm currently on a rest-api with Go
+
 <!--
 **brandonjoker17/brandonjoker17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
