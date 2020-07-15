@@ -15,7 +15,7 @@ func main() {
 ```
 
 ### 💬 Where to find me:
-- 🦜 Twitter: https://twitter.com/BrandonBermdez5
+- Twitter: https://twitter.com/BrandonBermdez5
 
 <!--
 **brandonjoker17/brandonjoker17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
