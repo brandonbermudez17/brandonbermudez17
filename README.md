@@ -14,6 +14,9 @@ func main() {
 }
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjoker17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjoker17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 💬 Where to find me:
 - Twitter: https://twitter.com/BrandonBermdez5
 
