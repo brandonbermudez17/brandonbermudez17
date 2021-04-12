@@ -20,6 +20,10 @@ func main() {
 ### 💬 Where to find me:
 - Twitter: https://twitter.com/BrandonBermdez5
 
+<a target="_blank" href="https://github.com/brandonjoker17/brandonjoker17/">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/brandonjoker17&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
+</a>
+
 <!--
 **brandonjoker17/brandonjoker17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
