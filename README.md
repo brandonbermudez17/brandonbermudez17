@@ -19,6 +19,7 @@ func main() {
 
 ### 💬 Where to find me:
 - Twitter: https://twitter.com/BrandonBermdez5
+- Linkedin: https://www.linkedin.com/in/brandon-alberto-bermudez-morales-488874173/
 
 <a target="_blank" href="https://github.com/brandonjoker17/brandonjoker17/">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/brandonjoker17&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
