@@ -14,7 +14,6 @@ Trabajo principalmente con **Go**, **Python**, **TypeScript** y **Rust**, integr
 | **Go** 🐹    | APIs, WebRTC (Pion), WebSockets (Gorilla, gobwas, nhooyr), CLI tools |
 | **Python** 🐍| Automatización, scripting, tooling de desarrollo |
 | **TypeScript** ⚡ | Frontend con Svelte, integración con APIs, UI reactivas |
-| **Rust** 🦀  | Herramientas de alto rendimiento, binarios portables, optimización |
 
 ---
 
