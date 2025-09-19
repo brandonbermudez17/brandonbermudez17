@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Brandon
 
 💻 **Desarrollador/a web** con pasión por crear aplicaciones eficientes y bien estructuradas.  
 Trabajo con tecnologías modernas y me encanta optimizar mi flujo de trabajo en entornos **Linux**.
