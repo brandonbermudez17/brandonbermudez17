@@ -33,15 +33,6 @@ Trabajo principalmente con **Go**, **Python**, **TypeScript** y **Rust**, integr
 
 ---
 
-## 🛠 Proyectos destacados
-
-- **[Go WebRTC Toolkit](#)** – Librerías y ejemplos para videollamadas y streaming en Go.
-- **[Rust CLI Packager](#)** – Herramienta modular para empaquetar y distribuir binarios.
-- **[Svelte + TS UI Kit](#)** – Componentes reusables para integraciones rápidas.
-- **[Python DevOps Scripts](#)** – Scripts para automatizar entornos y pipelines.
-
----
-
 ## 📫 Contacto
 
 - 💼 [LinkedIn](#)
