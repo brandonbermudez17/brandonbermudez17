@@ -1,43 +1,39 @@
-# 👋 Hola, soy Brandon
+# 👋 Hola, soy [Tu Nombre]
 
-💻 **Backend / Frontend Integrator** | 🛠 **Arquitecto de soluciones** | 📚 **Documentación-driven**
-
-Me apasiona construir herramientas reales, desde **CLI** hasta **APIs** y **UI modulares**, con un enfoque en **mantenibilidad**, **automatización** y **futuro-proofing**.  
-Trabajo principalmente con **Go**, **Python**, **TypeScript** y **Rust**, integrando backend y frontend con arquitecturas claras y escalables.
+💻 **Desarrollador/a web** con pasión por crear aplicaciones eficientes y bien estructuradas.  
+Trabajo con tecnologías modernas y me encanta optimizar mi flujo de trabajo en entornos **Linux**.
 
 ---
 
-## 🚀 Stack principal
+## 🛠 Tecnologías principales
 
-| Lenguaje     | Uso principal |
-|--------------|---------------|
-| **Go** 🐹    | APIs, WebRTC (Pion), WebSockets (Gorilla, gobwas, nhooyr), CLI tools |
-| **Python** 🐍| Automatización, scripting, tooling de desarrollo |
-| **TypeScript** ⚡ | Frontend con Svelte, integración con APIs, UI reactivas |
-
----
-
-## 📂 Áreas de enfoque
-
-- **Arquitectura real-world**: Diagramas, flujos técnicos y migraciones.
-- **Linux desktop workflows**: Hyprland, Waybar, integración de launchers e iconos.
-- **Documentación exportable**: Guías, tablas de migración y scripts reutilizables.
+- **Go** – Backend rápido y concurrente.
+- **Python** – Scripts, automatización y utilidades.
+- **TypeScript** – Frontend tipado y escalable.
+- **Rust** – Herramientas de alto rendimiento y sistemas.
 
 ---
 
-## 📊 Estadísticas
+## 🌱 Actualmente aprendiendo
+- Nuevos frameworks y librerías para desarrollo web.
+- Mejores prácticas de seguridad y despliegue.
+- Automatización de entornos de desarrollo en Linux.
+
+---
+
+## 📂 Áreas de interés
+- Desarrollo de APIs y microservicios.
+- Interfaces web reactivas y accesibles.
+- Contenedores y virtualización para entornos de desarrollo.
+- Personalización y optimización de escritorios Linux.
+
+---
+
+## 📊 Estadísticas de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Contacto
-
-- 💼 [LinkedIn](#)
-- 🐦 [Twitter](#)
-- 🌐 [Portafolio](#)
-
----
-
-> _"La mejor arquitectura es la que puedes explicar y migrar sin miedo."_  
+> _"El mejor código es el que puedes entender dentro de seis meses."_
