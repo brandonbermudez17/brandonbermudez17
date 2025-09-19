@@ -1,41 +1,54 @@
-# Hi there, I'm Brandon 
+# 👋 Hola, soy Brandon
 
-I'm a System engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Angular,Vue and Go language.
+💻 **Backend / Frontend Integrator** | 🛠 **Arquitecto de soluciones** | 📚 **Documentación-driven**
 
-```go
-func main() {
-    name := "Brandon Bermudez"
-    otherAlias := "Full Stack Developer"
-    codesIn := []string{"GO","Typescript","HTML","CSS","Rust"}
-    currentlylearning := []string{"Mongo","Python","Svelte","Gridsome","Event Driven"}
-    toolsUsing := []string{"Vue", "go-chi", "fasthttp", "Angular", "Sass", "Heroku", "Bulma", "Nestjs", "Postgresql", "Figma"}
-    experiences := nil //coming soon
-    personalProjects := true
-}
-```
+Me apasiona construir herramientas reales, desde **CLI** hasta **APIs** y **UI modulares**, con un enfoque en **mantenibilidad**, **automatización** y **futuro-proofing**.  
+Trabajo principalmente con **Go**, **Python**, **TypeScript** y **Rust**, integrando backend y frontend con arquitecturas claras y escalables.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjoker17&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjoker17&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### 💬 Where to find me:
-- Twitter: https://twitter.com/BrandonBermdez5
-- Linkedin: https://www.linkedin.com/in/brandon-alberto-bermudez-morales-488874173/
+## 🚀 Stack principal
 
-<a target="_blank" href="https://github.com/brandonjoker17/brandonjoker17/">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/brandonjoker17&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
-</a>
+| Lenguaje     | Uso principal |
+|--------------|---------------|
+| **Go** 🐹    | APIs, WebRTC (Pion), WebSockets (Gorilla, gobwas, nhooyr), CLI tools |
+| **Python** 🐍| Automatización, scripting, tooling de desarrollo |
+| **TypeScript** ⚡ | Frontend con Svelte, integración con APIs, UI reactivas |
+| **Rust** 🦀  | Herramientas de alto rendimiento, binarios portables, optimización |
 
-<!--
-**brandonjoker17/brandonjoker17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Áreas de enfoque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Arquitectura real-world**: Diagramas, flujos técnicos y migraciones.
+- **Linux desktop workflows**: Hyprland, Waybar, integración de launchers e iconos.
+- **Automatización**: Instalación, desinstalación y limpieza de dependencias (Flatpak, Snap, nativo).
+- **Documentación exportable**: Guías, tablas de migración y scripts reutilizables.
+
+---
+
+## 📊 Estadísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🛠 Proyectos destacados
+
+- **[Go WebRTC Toolkit](#)** – Librerías y ejemplos para videollamadas y streaming en Go.
+- **[Rust CLI Packager](#)** – Herramienta modular para empaquetar y distribuir binarios.
+- **[Svelte + TS UI Kit](#)** – Componentes reusables para integraciones rápidas.
+- **[Python DevOps Scripts](#)** – Scripts para automatizar entornos y pipelines.
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](#)
+- 🐦 [Twitter](#)
+- 🌐 [Portafolio](#)
+
+---
+
+> _"La mejor arquitectura es la que puedes explicar y migrar sin miedo."_  
