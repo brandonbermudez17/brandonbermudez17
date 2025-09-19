@@ -31,8 +31,8 @@ Trabajo con tecnologías modernas y me encanta optimizar mi flujo de trabajo en 
 
 ## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbermudez17&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonbermudez17&show_icons=true&theme=tokyonight)
 
 ---
 
