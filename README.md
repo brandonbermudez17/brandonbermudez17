@@ -22,7 +22,6 @@ Trabajo principalmente con **Go**, **Python**, **TypeScript** y **Rust**, integr
 
 - **Arquitectura real-world**: Diagramas, flujos técnicos y migraciones.
 - **Linux desktop workflows**: Hyprland, Waybar, integración de launchers e iconos.
-- **Automatización**: Instalación, desinstalación y limpieza de dependencias (Flatpak, Snap, nativo).
 - **Documentación exportable**: Guías, tablas de migración y scripts reutilizables.
 
 ---
